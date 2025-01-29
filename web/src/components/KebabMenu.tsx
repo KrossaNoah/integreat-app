@@ -62,7 +62,7 @@ const Heading = styled.div`
   background-color: ${props => props.theme.colors.backgroundAccentColor};
   box-shadow: -3px 3px 3px 0 rgb(0 0 0 / 13%);
   height: ${dimensions.headerHeightSmall}px;
-  padding: 0 8px;
+  padding: 0 32px;
 `
 
 const Content = styled.div`
